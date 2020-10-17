@@ -1,47 +1,48 @@
 # Pandas Challenge
 ## Heroes of Pymoli
 ### This activity utilized Pandas and Python within a Jupyter workbook in order to analyze financial and demographic data.
+![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.techspot.com%2Fimages2%2Fnews%2Fbigimage%2F2017%2F10%2F2017-10-20-image-5.jpg&f=1&nofb=1)
 
 Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-The [HeroesOfPymoli ipynb file](../HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) contains the code which outputs the following information:
+The [HeroesOfPymoli.ipynb file](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) contains the code which outputs the following information:
 ### Player Count
--Total Number of Players
+- Total Number of Players
 
 ### Purchasing Analysis (Total)
--Number of Unique Items
--Average Purchase Price
--Total Number of Purchases
--Total Revenue
+- Number of Unique Items
+- Average Purchase Price
+- Total Number of Purchases
+- Total Revenue
 
 ### Gender Demographics
--Percentage and Count of Male Players
--Percentage and Count of Female Players
--Percentage and Count of Other / Non-Disclosed
+- Percentage and Count of Male Players
+- Percentage and Count of Female Players
+- Percentage and Count of Other / Non-Disclosed
 
 ### Purchasing Analysis (Gender)
--Purchase Count
--Average Purchase Price
--Total Purchase Value
--Average Purchase Total per Person by Gender
+- Purchase Count
+- Average Purchase Price
+- Total Purchase Value
+- Average Purchase Total per Person by Gender
 
 ### Age Demographics
--Bins broken into 4 years (<10, 10-14, 15-19, etc.) of the following:
-    -Purchase Count
-    -Average Purchase Price
-    -Total Purchase Value
-    -Average Purchase Total per Person by Age Group
+- Bins broken into 4 years (<10, 10-14, 15-19, etc.) of the following:
+    *Purchase Count
+    *Average Purchase Price
+    *Total Purchase Value
+    *Average Purchase Total per Person by Age Group
 
 ### Top Spenders
--Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
-    -SN
-    -Purchase Count
-    -Average Purchase Price
-    -Total Purchase Value
+- Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+    *SN
+    *Purchase Count
+    *Average Purchase Price
+    *Total Purchase Value
 
 ### Most Popular Items
--Identify the 5 most popular items by purchase count, then list (in a table):
+- Identify the 5 most popular items by purchase count, then list (in a table):
     -Item ID
     -Item Name
     -Purchase Count
@@ -49,14 +50,16 @@ The [HeroesOfPymoli ipynb file](../HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) 
     -Total Purchase Value
 
 ### Most Profitable Items
--Identify the 5 most profitable items by total purchase value, then list (in a table):
-    -Item ID
-    -Item Name
-    -Purchase Count
-    -Item Price
-    -Total Purchase Value
+- Identify the 5 most profitable items by total purchase value, then list (in a table):
+    *Item ID
+    *Item Name
+    *Purchase Count
+    *Item Price
+    *Total Purchase Value
 
 # Final Considerations and Observable Trends
+
+![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd1fs8ljxwyzba6.cloudfront.net%2Fassets%2Farticle%2F2018%2F12%2F03%2Fall-pokemon-super-smash-bros-ultimate_feature.jpg&f=1&nofb=1)
 
 Within the gender demographics analysis, it can be seen that on average, females and those who did not disclose their gender payed $0.25 more for their virtual products. The percent of total purchase value for non-males is around 17%, which is slightly higher than their makeup as 15% of the dataset purchases. 
 
