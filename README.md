@@ -65,4 +65,4 @@ Within the gender demographics analysis, it can be seen that on average, females
 
 The age distribution of the dataset is slightly skewed left as there are few players under the age of 15, while there are more players at older age ranges. The distribution for average purchase per person does not follow this trend though, as it seems that those closer to the lower and upper bounds (under 19 and over 35) payed more on average compared to those aged 20 to 34, which comprised the middle age range of our dataset. 
 
-Though the biggest spender was *Lisosia93* with 5 purchases for a total of $18.96, the majority of repeat customers,only bought 2 or 3 items. *Lisosia93* was the only user to buy 5 items. 
+Though the biggest spender was *Lisosia93* with 5 purchases for a total of $18.96, the majority of repeat customers, only bought 2 or 3 items. *Lisosia93* was the only user to buy 5 items. 
