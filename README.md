@@ -61,8 +61,8 @@ The [HeroesOfPymoli.ipynb file](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) con
 
 ![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd1fs8ljxwyzba6.cloudfront.net%2Fassets%2Farticle%2F2018%2F12%2F03%2Fall-pokemon-super-smash-bros-ultimate_feature.jpg&f=1&nofb=1)
 
-Within the gender demographics analysis, it can be seen that on average, females and those who did not disclose their gender payed $0.25 more for their virtual products. The percent of total purchase value for non-males is around 17%, which is slightly higher than their makeup as 15% of the dataset purchases. 
+- Within the gender demographics analysis, it can be seen that on average, females and those who did not disclose their gender payed $0.25 more for their virtual products. The percent of total purchase value for non-males is around 17%, which is slightly higher than their makeup as 15% of the dataset purchases. 
 
-The age distribution of the dataset is slightly skewed left as there are few players under the age of 15, while there are more players at older age ranges. The distribution for average purchase per person does not follow this trend though, as it seems that those closer to the lower and upper bounds (under 19 and over 35) payed more on average compared to those aged 20 to 34, which comprised the middle age range of our dataset. 
+- The age distribution of the dataset is slightly skewed left as there are few players under the age of 15, while there are more players at older age ranges. The distribution for average purchase per person does not follow this trend though, as it seems that those closer to the lower and upper bounds (under 19 and over 35) payed more on average compared to those aged 20 to 34, which comprised the middle age range of our dataset. 
 
-Though the biggest spender was *Lisosia93* with 5 purchases for a total of $18.96, the majority of repeat customers only bought 2 or 3 items. *Lisosia93* was the only user to buy 5 items. 
+- Though the biggest spender was *Lisosia93* with 5 purchases for a total of $18.96, the majority of repeat customers only bought 2 or 3 items. *Lisosia93* was the only user to buy 5 items. 
